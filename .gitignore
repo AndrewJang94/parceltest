@@ -6,3 +6,7 @@ node_modules
 
 #parcel files
 dist
+.parcel-cache
+
+#OS files 
+.DS_Store
