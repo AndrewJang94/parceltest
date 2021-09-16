@@ -1,0 +1,8 @@
+# node modules
+node_modules
+
+#vs code files
+.vscode
+
+#parcel files
+dist
